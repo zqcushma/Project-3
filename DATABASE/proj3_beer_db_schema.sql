@@ -10,8 +10,7 @@ CREATE TABLE "States" (
 CREATE TABLE "StatesCensusData" (
     "StateID" varchar(2) NOT NULL,
     "Year" smallint NOT NULL,
-    "MalePop21Older" int NOT NULL,
-    "FemalePop21Older" int NOT NULL,
+    "Population" int NOT NULL,
     PRIMARY KEY ("StateID", "Year"),
     FOREIGN KEY ("StateID") REFERENCES "States" ("StateID")
 );
@@ -36,7 +35,7 @@ CREATE TABLE "QuarterlyProduction" (
 CREATE TABLE "AnnualCraftProduction" (
     "Year" smallint NOT NULL,
     "BreweryCat" varchar(20) NOT NULL,
-    "AnnualCraftProductionAmount" int NOT NULL,
+    "AnnualCraftProductionAmount" int,
     PRIMARY KEY ("Year", "BreweryCat")
 );
 
