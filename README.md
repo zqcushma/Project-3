@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Craft Brewer Dashboard! This data analytics project focuses on creating a dashboard for displaying information realated to craft breweries, broken into location based and time based information. The main goal is to allow anyone looking into opening a brewery or expanding their business to make a well informed decision about where they take their next step.
+Welcome to the Craft Brewer Dashboard! This data analytics project focuses on creating a dashboard for displaying information related to craft breweries, broken into location based and time based information. The main goal is to allow anyone looking into opening a brewery or expanding their business to make a well informed decision about where they take their next step.
 
 ## Usage
 
@@ -14,7 +14,7 @@ To interact with the project, follow these steps:
 
 ## Ethical Considerations
 
-In our project, we are committed to ensuring ethical considerations are a priority. The vast majority of our data comes from the US government, albeit in two different forms: the Census, and reports by the Alcohol and Tobacco Tax and Trade Bureau, which was aggregated by the Brewers Association. We ded not deal with any Personally Identifiable Information thankfully, albeit there could be some bias in our representation of the data, as we are targeting our presentation towards a specific audience. We cleaned the data for use by stripping the given forms formatting and inserting into our database. On extraction, manipulated the data to be an average of multiple years for our heatmap displays, and filled null values with negative numbers to clearly show something was missing. We also did our best to keep our dashboard colorblind friendly, increasing our accessibility. 
+In our project, we are committed to ensuring ethical considerations are a priority. The vast majority of our data comes from the US government, albeit in two different forms: the Census, and reports by the Alcohol and Tobacco Tax and Trade Bureau, which was aggregated by the Brewers Association. We did not deal with any Personally Identifiable Information thankfully, albeit there could be some bias in our representation of the data, as we are targeting our presentation towards a specific audience. We cleaned the data for use by stripping the given forms formatting and inserting into our database. On extraction, manipulated the data to be an average of multiple years for our heatmap displays, and filled null values with negative numbers to clearly show something was missing. We also did our best to keep our dashboard colorblind friendly, increasing our accessibility. 
 
 ## Data Sources
 
