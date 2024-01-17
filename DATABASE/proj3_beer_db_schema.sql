@@ -1,3 +1,4 @@
+-- Schema for the postgresql database
 -- Creating the States table with StateID as the primary key
 CREATE TABLE "States" (
     "StateID" varchar(2) PRIMARY KEY NOT NULL,
