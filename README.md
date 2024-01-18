@@ -19,10 +19,11 @@ In our project, we are committed to ensuring ethical considerations are a priori
 ## Data Sources
 
 - **US Census Data:**
-  - <citation for census data>
+  - [U.S. Census API - Populatiuon Estimates 2017-2021](https://api.census.gov/data/2017/pep/population/)
+  - Multiple years were used, the above links to the 2017 data. 
   
 - **Brewers Association Database:**
-  - <citation for database>
+  - [Brewers Association Industry Datasets](https://www.brewersassociation.org/statistics-and-data/industry-data-sets/)
 
 ## Code References
 
