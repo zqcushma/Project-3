@@ -4,6 +4,8 @@
 
 Welcome to the Craft Brewer Dashboard! This data analytics project focuses on creating a dashboard for displaying information related to craft breweries, broken into location based and time based information. The main goal is to allow anyone looking into opening a brewery or expanding their business to make a well informed decision about where they take their next step.
 
+One item of note, this project was created with the goal of having a webpage that can be hosted by GitHub Pages. If that page is unavailable, then a HTTP server is required locally for this to function properly. Our team used the extension "Live Server" by Ritick Dey for Visual Studio Code. With the server running, load up the index.html file and everything should work properly.
+
 ## Usage
 
 To interact with the project, follow these steps:
