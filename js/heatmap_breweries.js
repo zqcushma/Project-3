@@ -50,7 +50,7 @@ Promise.all([
     rankProduction = sortData(breweryData, "Production");
     rankAverage = sortData(breweryData, "Average");
 
-    map = L.map('map').setView([37.8, -96], 4);
+    map = L.map('map-graph').setView([37.8, -96], 4);
 
     let tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 19,
