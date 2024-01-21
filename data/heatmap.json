@@ -1,0 +1,464 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Alabama",
+        "Production": 82482.0,
+        "Breweries": 67,
+        "Breweries Per Capita": 1.5787467696072395e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Alaska",
+        "Production": 184680.0,
+        "Breweries": 61,
+        "Breweries Per Capita": 4.206317591837458e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Arizona",
+        "Production": 187002.0,
+        "Breweries": 161,
+        "Breweries Per Capita": 2.4806851313357142e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Arkansas",
+        "Production": 45810.0,
+        "Breweries": 64,
+        "Breweries Per Capita": 1.706849148895047e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "California",
+        "Production": 3487648.0,
+        "Breweries": 1379,
+        "Breweries Per Capita": 3.498819545996357e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Colorado",
+        "Production": 1198012.0,
+        "Breweries": 542,
+        "Breweries Per Capita": 9.432190811741358e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Connecticut",
+        "Production": 244268.0,
+        "Breweries": 148,
+        "Breweries Per Capita": 4.1120590866689777e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Delaware",
+        "Production": 295239.0,
+        "Breweries": 44,
+        "Breweries Per Capita": 4.778023963766053e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "District of Columbia",
+        "Production": 33783.0,
+        "Breweries": 16,
+        "Breweries Per Capita": 2.1868995789102544e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Florida",
+        "Production": 1335465.0,
+        "Breweries": 465,
+        "Breweries Per Capita": 2.1573338471344785e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Georgia",
+        "Production": 491136.0,
+        "Breweries": 168,
+        "Breweries Per Capita": 1.5767866747180196e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Hawaii",
+        "Production": 108978.0,
+        "Breweries": 42,
+        "Breweries Per Capita": 2.965073526846822e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Idaho",
+        "Production": 91201.0,
+        "Breweries": 105,
+        "Breweries Per Capita": 2.9239007338017752e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Illinois",
+        "Production": 410131.0,
+        "Breweries": 377,
+        "Breweries Per Capita": 3.204256841035188e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Indiana",
+        "Production": 249958.0,
+        "Breweries": 261,
+        "Breweries Per Capita": 4.2513823974494305e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Iowa",
+        "Production": 126351.0,
+        "Breweries": 141,
+        "Breweries Per Capita": 4.7583238326217405e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Kansas",
+        "Production": 44900.0,
+        "Breweries": 76,
+        "Breweries Per Capita": 2.5816202316961417e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Kentucky",
+        "Production": 121589.0,
+        "Breweries": 108,
+        "Breweries Per Capita": 2.4073954295969278e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Louisiana",
+        "Production": 215168.0,
+        "Breweries": 60,
+        "Breweries Per Capita": 1.2992171821687682e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Maine",
+        "Production": 346013.0,
+        "Breweries": 186,
+        "Breweries Per Capita": 8.139273896686114e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Maryland",
+        "Production": 289542.0,
+        "Breweries": 163,
+        "Breweries Per Capita": 2.674168236125999e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Massachusetts",
+        "Production": 551630.0,
+        "Breweries": 274,
+        "Breweries Per Capita": 4.5509444956991914e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Michigan",
+        "Production": 764026.0,
+        "Breweries": 575,
+        "Breweries Per Capita": 5.739811261030545e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Minnesota",
+        "Production": 614625.0,
+        "Breweries": 270,
+        "Breweries Per Capita": 4.773881045427528e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Mississippi",
+        "Production": 24000.0,
+        "Breweries": 24,
+        "Breweries Per Capita": 6.9882892910266424e-06
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Missouri",
+        "Production": 354063.0,
+        "Breweries": 199,
+        "Breweries Per Capita": 3.5553505052402775e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Montana",
+        "Production": 197193.0,
+        "Breweries": 122,
+        "Breweries Per Capita": 0.00011258364841866948
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Nebraska",
+        "Production": 52335.0,
+        "Breweries": 69,
+        "Breweries Per Capita": 3.718057452720128e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Nevada",
+        "Production": 74694.0,
+        "Breweries": 63,
+        "Breweries Per Capita": 1.4468193901583354e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "New Hampshire",
+        "Production": 110894.0,
+        "Breweries": 125,
+        "Breweries Per Capita": 4.662351856877982e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "New Jersey",
+        "Production": 176838.0,
+        "Breweries": 173,
+        "Breweries Per Capita": 2.1889373591859126e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "New Mexico",
+        "Production": 141040.0,
+        "Breweries": 141,
+        "Breweries Per Capita": 2.7959123761061327e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "New York",
+        "Production": 1295393.0,
+        "Breweries": 628,
+        "Breweries Per Capita": 3.781811149997396e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "North Carolina",
+        "Production": 1073431.0,
+        "Breweries": 462,
+        "Breweries Per Capita": 5.1253395029137824e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "North Dakota",
+        "Production": 19308.0,
+        "Breweries": 29,
+        "Breweries Per Capita": 2.4967916227647476e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Ohio",
+        "Production": 1300151.0,
+        "Breweries": 451,
+        "Breweries Per Capita": 3.84788558047933e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Oklahoma",
+        "Production": 72844.0,
+        "Breweries": 76,
+        "Breweries Per Capita": 1.928881265255339e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Oregon",
+        "Production": 957904.0,
+        "Breweries": 410,
+        "Breweries Per Capita": 9.729359987743934e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Pennsylvania",
+        "Production": 3412478.0,
+        "Breweries": 589,
+        "Breweries Per Capita": 4.5699329207534975e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Rhode Island",
+        "Production": 60695.0,
+        "Breweries": 43,
+        "Breweries Per Capita": 3.9763916829358335e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "South Carolina",
+        "Production": 115775.0,
+        "Breweries": 123,
+        "Breweries Per Capita": 2.3890335257256283e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "South Dakota",
+        "Production": 20700.0,
+        "Breweries": 49,
+        "Breweries Per Capita": 5.498762121673906e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Tennessee",
+        "Production": 202730.0,
+        "Breweries": 176,
+        "Breweries Per Capita": 2.557563233266106e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Texas",
+        "Production": 1193582.0,
+        "Breweries": 485,
+        "Breweries Per Capita": 1.6662314965307125e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Utah",
+        "Production": 176545.0,
+        "Breweries": 52,
+        "Breweries Per Capita": 1.587895161714275e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Vermont",
+        "Production": 325903.0,
+        "Breweries": 101,
+        "Breweries Per Capita": 5.134401835008192e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Virginia",
+        "Production": 388297.0,
+        "Breweries": 391,
+        "Breweries Per Capita": 5.39545149168006e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Washington",
+        "Production": 552112.0,
+        "Breweries": 604,
+        "Breweries Per Capita": 7.917496065332075e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "West Virginia",
+        "Production": 20682.0,
+        "Breweries": 34,
+        "Breweries Per Capita": 1.384310546820138e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Wisconsin",
+        "Production": 923298.0,
+        "Breweries": 340,
+        "Breweries Per Capita": 6.581675724321478e-05
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Wyoming",
+        "Production": 57917.0,
+        "Breweries": 50,
+        "Breweries Per Capita": 8.637831282424259e-05
+      }
+    }
+  ]
+}
