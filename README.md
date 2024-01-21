@@ -4,6 +4,8 @@
 
 Welcome to the Craft Brewer Dashboard! This data analytics project focuses on creating a dashboard for displaying information related to craft breweries, broken into location based and time based information. The main goal is to allow anyone looking into opening a brewery or expanding their business to make a well informed decision about where they take their next step.
 
+One item of note, this project was created with the goal of having a webpage that can be hosted by GitHub Pages. If that page is unavailable, then a HTTP server is required locally for this to function properly. Our team used the extension "Live Server" by Ritick Dey for Visual Studio Code. With the server running, load up the index.html file and everything should work properly.
+
 ## Usage
 
 To interact with the project, follow these steps:
@@ -19,10 +21,19 @@ In our project, we are committed to ensuring ethical considerations are a priori
 ## Data Sources
 
 - **US Census Data:**
-  - <citation for census data>
+  - U.S. Census Bureau, "Population Estimates API", accessed January 2024, https://api.census.gov/data/2017-2021/pep/population/
+  - U.S. Census Bureau, "Decennial Census API", accessed January 2024, https://api.census.gov/data/2020/dec/ddhca/
+  - Annual Estimates of the Resident Population for the United States, Regions, States, District of Columbia, and Puerto Rico: April 1, 2020 to July 1, 2023 (NST-EST2023-POP)
   
-- **Brewers Association Database:**
-  - <citation for database>
+- **Brewers Association Dataset:**
+  - Brewers Association Industry Datasets, accessed January 2024, https://www.brewersassociation.org/statistics-and-data/industry-data-sets/
+
+- **Links**
+  - [Brewers Association Dataset](https://www.brewersassociation.org/statistics-and-data/industry-data-sets/)
+  - [Census data for 2020](https://api.census.gov/data/2020/dec/ddhca/)
+  - [Census data for 2017-2021](https://api.census.gov/data/2017-2021/pep/population/)
+  - The above Census links do not directly work, as they are accessed via the Census API.
+  - The Brewers Association Dataset link does work, however it is restricted to only members of the association.
 
 ## Code References
 
