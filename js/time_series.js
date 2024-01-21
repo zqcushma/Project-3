@@ -22,7 +22,7 @@ const stateCodeToName = {
     MD: "Maryland",
     MA: "Massachusetts",
     MI: "Michigan",
-    MN: "Minnisota",
+    MN: "Minnesota",
     MS: "Mississippi",
     MO: "Missouri",
     MT: "Montana",
