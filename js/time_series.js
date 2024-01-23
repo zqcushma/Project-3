@@ -150,7 +150,7 @@ document.querySelectorAll("input[type='checkbox']").forEach(cb => {
 })
 
 
-fetch("data/time_series.json").then(data => data.json()).then(data => {
+fetch("https://raw.githubusercontent.com/zqcushma/Project-3/main/data/time_series.json").then(data => data.json()).then(data => {
     let initialize = true;
 
     Object.keys(data).forEach(key => {
