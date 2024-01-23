@@ -36,8 +36,13 @@ let rankBreweries, rankProduction, rankAverage;
 
 // Load brewery and state border data
 Promise.all([
+    //File paths to the github repo
     fetch('https://raw.githubusercontent.com/zqcushma/Project-3/main/data/heatmap.json').then(response => response.json()),
     fetch('https://raw.githubusercontent.com/zqcushma/Project-3/main/js/borders.json').then(response => response.json())
+
+    //Relative file paths
+    //fetch('data/heatmap.json').then(response => response.json()),
+    //fetch('js/borders.json').then(response => response.json())
 ]).then(([breweryData, bordersData]) => {
 
 
