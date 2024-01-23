@@ -149,8 +149,10 @@ document.querySelectorAll("input[type='checkbox']").forEach(cb => {
     cb.addEventListener("change", onChangeSelection);
 })
 
-
+//Absolute filepath to github repo
 fetch("https://raw.githubusercontent.com/zqcushma/Project-3/main/data/time_series.json").then(data => data.json()).then(data => {
+//Relative filepath
+//fetch("data/time_series.json").then(data => data.json()).then(data => {
     let initialize = true;
 
     Object.keys(data).forEach(key => {
